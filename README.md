@@ -1,31 +1,51 @@
-# Pink-Parking
+# <img src="https://raw.githubusercontent.com/TarikSouto/free-icons/main/car-pink.png" width="40" height="40" /> Pink Parking
 
-O Pink Parking é uma plataforma de gerenciamento de estacionamento exclusivo para o público feminino. O projeto visa criar um ambiente seguro e acolhedor, combatendo as inseguranças comuns em garagens convencionais e otimizando a experiência de reserva e permanência.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-ff69b4?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Database-SQLite-003B57?style=for-the-badge&logo=sqlite" alt="SQLite">
+  <img src="https://img.shields.io/badge/UI-Tkinter-blue?style=for-the-badge" alt="Tkinter">
+</p>
 
-👥 Autoras
-Este projeto foi idealizado e desenvolvido por:
+---
 
-Luciana Galdino
+## 🌸 Sobre o Projeto
+O **Pink Parking** é um sistema de desktop focado na gestão de estacionamentos exclusivos para o público feminino. Idealizado por **Luciana Galdino** e **Talita Santos**, o software une a robustez do Python com uma interface amigável para garantir que o controle de vagas e a segurança das usuárias sejam prioridades.
 
-Talita Santos
+---
 
-🎯 O Problema e a Solução
+## ✨ Funcionalidades Implementadas
+* **Gestão de Fluxo:** Cadastro de entrada e saída de veículos com cálculo automático de permanência.
+* **Banco de Dados Local:** Armazenamento seguro de dados utilizando **SQLite** para persistência leve e rápida.
+* **Relatórios em PDF:** Geração de comprovantes de pagamento e relatórios de uso através da biblioteca **FPDF**.
+* **Interface Intuitiva:** Janelas interativas desenvolvidas com **Tkinter** para facilitar a operação do dia a dia.
 
-Muitas mulheres sentem-se vulneráveis em estacionamentos mal iluminados ou isolados. O Pink Parking propõe:
+---
 
-Segurança Reforçada: Monitoramento focado e iluminação estratégica.
+## 🛠️ Stack Tecnológica
 
-Vagas Amplas: Maior facilidade de manobra e desembarque (especialmente para gestantes ou com crianças).
+O projeto foi construído utilizando as seguintes ferramentas:
 
-Tecnologia: Reserva antecipada e pagamento via app para evitar filas e exposição desnecessária.
+* **Linguagem:** [Python](https://www.python.org/) (Lógica de programação)
+* **Interface Gráfica:** [Tkinter](https://docs.python.org/3/library/tkinter.html) (GUI nativa)
+* **Banco de Dados:** [SQLite](https://www.sqlite.org/) (Armazenamento relacional)
+* **Exportação de Documentos:** [FPDF](http://pyfpdf.github.io/fpdf2/) (Criação de PDFs)
 
-🚀 Funcionalidades Principais
-Cadastro de Usuárias: Verificação de perfil para garantir a exclusividade do público.
+---
 
-Reserva de Vagas: Interface intuitiva para escolher o horário de entrada e saída.
+## 👩‍💻 Equipe
+O desenvolvimento deste sistema é fruto da colaboração entre:
 
-Check-in/Check-out Digital: Registro de tempo de permanência automatizado.
+| **Luciana Galdino** | **Talita Santos** |
+|:---:|:---:|
+| [@luciana-galdino](https://github.com/luciana-galdino) | [@talita-santos](https://github.com/talita-santos) |
 
-Painel Administrativo: Controle de fluxo, faturamento e ocupação em tempo real.
+---
 
-Botão de Assistência: Chamado direto para a equipe de apoio local.
+## 🚀 Como Rodar o Sistema
+
+1. **Pré-requisitos:**
+   Certifique-se de ter o Python instalado. O Tkinter e o SQLite já costumam vir por padrão na instalação do Python.
+
+2. **Instalar dependências externas:**
+   ```bash
+   pip install fpdf
