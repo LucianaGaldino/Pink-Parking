@@ -1,5 +1,3 @@
-# <img src="https://raw.githubusercontent.com/TarikSouto/free-icons/main/car-pink.png" width="40" height="40" /> Pink Parking
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-ff69b4?style=for-the-badge&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/Database-SQLite-003B57?style=for-the-badge&logo=sqlite" alt="SQLite">
@@ -37,7 +35,7 @@ O desenvolvimento deste sistema é fruto da colaboração entre:
 
 | **Luciana Galdino** | **Talita Santos** |
 |:---:|:---:|
-| [@luciana-galdino](https://github.com/luciana-galdino) | [@talita-santos](https://github.com/talita-santos) |
+| [@luciana Galdino](https://github.com/LucianaGaldino) | [@talita Santos](https://github.com/Ametistat4) |
 
 ---
 
