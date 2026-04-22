@@ -1,0 +1,3 @@
+# Dependência opcional — necessária apenas para exportar relatórios em PDF
+# com layout gráfico. Se não instalada, o sistema gera um PDF simples como fallback.
+reportlab>=4.0.0
